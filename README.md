@@ -37,6 +37,8 @@ The static site is written to `.output/public`. Upload that directory to any sta
 (Cloudflare Pages, GitHub Pages, Vercel, S3, …). No server runtime, environment variables or API
 keys are required.
 
+Preview the generated site locally with `npm run preview` (serves `http://127.0.0.1:3000`).
+
 For a Cloudflare Pages project, use `npm run generate` as the build command and
 `.output/public` as the output directory.
 
