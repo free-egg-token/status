@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Free Egg Token Status",
+    "description": "Hardcoded uptime, imaginary incidents and nine perfectly healthy eggs. The official (parody) status page for Free Egg Token and free-egg."
+  },
+  "brand": {
+    "name": "Free Egg Token",
+    "status": "Status",
+    "homeLabel": "Free Egg Token Status — home"
+  },
+  "nav": {
+    "github": "GitHub",
+    "githubLabel": "Free Egg Token on GitHub"
+  },
+  "localeSwitcher": {
+    "label": "Language"
+  },
+  "hero": {
+    "eyebrow": "Current status",
+    "title": "All systems are operational.",
+    "subtitle": "Nine models, six endpoints, one egg. None of it exists, and all of it is healthy.",
+    "updated": "Last checked {time} · verified by nobody"
+  },
+  "metrics": {
+    "label": "Key figures",
+    "uptime90": {
+      "label": "90-day uptime",
+      "value": "100.00%",
+      "note": "Hardcoded, as promised"
+    },
+    "incidents": {
+      "label": "Active incidents",
+      "value": "0",
+      "note": "All past incidents were eggs"
+    },
+    "models": {
+      "label": "Models available",
+      "value": "9",
+      "note": "One egg, nine names"
+    },
+    "credit": {
+      "label": "Account credit",
+      "value": "$10,000.00",
+      "note": "Topped up forever"
+    }
+  },
+  "services": {
+    "eyebrow": "Components",
+    "title": "Service health",
+    "subtitle": "Every component is monitored by a very confident spreadsheet.",
+    "window": "{days} days ago → today",
+    "groups": {
+      "api": "API endpoints",
+      "billing": "Billing",
+      "platform": "Platform"
+    },
+    "items": {
+      "chat": {
+        "name": "Chat completions",
+        "description": "OpenAI-compatible chat endpoint"
+      },
+      "streaming": {
+        "name": "Streaming (SSE)",
+        "description": "Token-by-token responses"
+      },
+      "models": {
+        "name": "Model catalog",
+        "description": "List and inspect available models"
+      },
+      "anthropic": {
+        "name": "Anthropic messages",
+        "description": "Anthropic-compatible Messages API"
+      },
+      "billing": {
+        "name": "Billing & credit",
+        "description": "Balance, usage and credit grants"
+      },
+      "eggs": {
+        "name": "Egg generation",
+        "description": "Unlimited ASCII eggs"
+      },
+      "website": {
+        "name": "Website & dashboard",
+        "description": "Public site and dashboard"
+      },
+      "github": {
+        "name": "GitHub organization",
+        "description": "Source code and issue trackers"
+      }
+    }
+  },
+  "uptime": {
+    "operational": "Operational",
+    "aria": "90-day uptime history for {service}",
+    "tooltip": "{date} · {value}% uptime"
+  },
+  "models": {
+    "eyebrow": "Model catalog",
+    "title": "Model availability",
+    "subtitle": "Every model answers. Every answer is the same.",
+    "context": "Context",
+    "operational": "Operational",
+    "notes": {
+      "flagship": "Flagship multimodal",
+      "fast": "Fast, great for agents",
+      "priceQuality": "Best price / quality",
+      "reasoning": "Reasoning",
+      "chat": "Chat",
+      "cot": "Chain of thought",
+      "longContext": "Long-context writing",
+      "lowLatency": "Ultra-low latency",
+      "inHouse": "Our own in-house model"
+    }
+  },
+  "incidents": {
+    "eyebrow": "History",
+    "title": "Past incidents",
+    "subtitle": "A transparent record of everything that never happened.",
+    "resolved": "Resolved",
+    "duration": "{minutes} min",
+    "affected": "Affected: {service}",
+    "items": {
+      "egg-oversupply": {
+        "title": "Egg oversupply",
+        "summary": "The egg farm briefly produced more eggs than the status page could count. No API impact; several eggs were laid."
+      },
+      "model-consistency": {
+        "title": "Suspicious model consistency",
+        "summary": "All nine models returned identical answers for eight minutes. The behaviour was later confirmed as expected."
+      },
+      "billing-precision": {
+        "title": "Billing precision event",
+        "summary": "$10,000.00 was displayed as $10,000.00. A review found the numbers correct and the incident purely cosmetic."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Intelligence is temporary. Eggs are forever.",
+    "linksLabel": "Free Egg Token links",
+    "organization": "GitHub organization",
+    "project": "free-egg project",
+    "thisStatusPage": "This status page",
+    "parodyNotice": "This is a parody status page. Nothing here is monitored, measured or real.",
+    "copyright": "© 2026 Free Egg Token. No rights reserved, no eggs harmed.",
+    "closing": "Have a nice egg."
+  }
+}

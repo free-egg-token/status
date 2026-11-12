@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Free Egg Token 状态",
+    "description": "硬编码的可用率、虚构的事故，以及九颗完全健康的鸡蛋。Free Egg Token 与 free-egg 的官方（戏仿）状态页。"
+  },
+  "brand": {
+    "name": "Free Egg Token",
+    "status": "状态",
+    "homeLabel": "Free Egg Token 状态 — 首页"
+  },
+  "nav": {
+    "github": "GitHub",
+    "githubLabel": "Free Egg Token 的 GitHub 主页"
+  },
+  "localeSwitcher": {
+    "label": "语言"
+  },
+  "hero": {
+    "eyebrow": "当前状态",
+    "title": "所有系统运行正常。",
+    "subtitle": "九个模型、六个端点、一颗鸡蛋。它们都不存在，而且全都健康。",
+    "updated": "最后检查于 {time} · 无人核实"
+  },
+  "metrics": {
+    "label": "关键指标",
+    "uptime90": {
+      "label": "90 天可用率",
+      "value": "100.00%",
+      "note": "如承诺般硬编码"
+    },
+    "incidents": {
+      "label": "活跃事故",
+      "value": "0",
+      "note": "过去的事故都是鸡蛋"
+    },
+    "models": {
+      "label": "可用模型",
+      "value": "9",
+      "note": "一颗鸡蛋，九个名字"
+    },
+    "credit": {
+      "label": "账户额度",
+      "value": "$10,000.00",
+      "note": "永久自动充值"
+    }
+  },
+  "services": {
+    "eyebrow": "组件",
+    "title": "服务健康",
+    "subtitle": "每个组件都由一张非常自信的表格监控。",
+    "window": "{days} 天前 → 今天",
+    "groups": {
+      "api": "API 端点",
+      "billing": "计费",
+      "platform": "平台"
+    },
+    "items": {
+      "chat": {
+        "name": "对话补全",
+        "description": "OpenAI 兼容对话端点"
+      },
+      "streaming": {
+        "name": "流式响应（SSE）",
+        "description": "逐 token 输出"
+      },
+      "models": {
+        "name": "模型目录",
+        "description": "列出并查看可用模型"
+      },
+      "anthropic": {
+        "name": "Anthropic 消息",
+        "description": "Anthropic 兼容 Messages API"
+      },
+      "billing": {
+        "name": "计费与额度",
+        "description": "余额、用量与额度记录"
+      },
+      "eggs": {
+        "name": "鸡蛋生成",
+        "description": "无限 ASCII 鸡蛋"
+      },
+      "website": {
+        "name": "网站与控制台",
+        "description": "公共站点与控制台"
+      },
+      "github": {
+        "name": "GitHub 组织",
+        "description": "源代码与议题追踪"
+      }
+    }
+  },
+  "uptime": {
+    "operational": "运行正常",
+    "aria": "{service} 的 90 天可用率历史",
+    "tooltip": "{date} · 可用率 {value}%"
+  },
+  "models": {
+    "eyebrow": "模型目录",
+    "title": "模型可用性",
+    "subtitle": "每个模型都会回答。每个回答都一样。",
+    "context": "上下文",
+    "operational": "运行正常",
+    "notes": {
+      "flagship": "旗舰多模态",
+      "fast": "快速，适合 Agent",
+      "priceQuality": "最佳性价比",
+      "reasoning": "推理",
+      "chat": "对话",
+      "cot": "思维链",
+      "longContext": "长上下文写作",
+      "lowLatency": "超低延迟",
+      "inHouse": "我们自研的模型"
+    }
+  },
+  "incidents": {
+    "eyebrow": "历史",
+    "title": "过往事故",
+    "subtitle": "一份关于从未发生过的一切的透明记录。",
+    "resolved": "已解决",
+    "duration": "{minutes} 分钟",
+    "affected": "受影响：{service}",
+    "items": {
+      "egg-oversupply": {
+        "title": "鸡蛋过量供应",
+        "summary": "鸡蛋农场短暂产出了超出状态页计数能力的鸡蛋。API 未受影响；若干鸡蛋被产下。"
+      },
+      "model-consistency": {
+        "title": "可疑的模型一致性",
+        "summary": "九个模型在八分钟内返回了完全相同的回答。事后确认这是预期行为。"
+      },
+      "billing-precision": {
+        "title": "计费精度事件",
+        "summary": "$10,000.00 被显示为 $10,000.00。复核确认数字正确，本次事件纯属视觉问题。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "智能是暂时的，鸡蛋是永恒的。",
+    "linksLabel": "Free Egg Token 链接",
+    "organization": "GitHub 组织",
+    "project": "free-egg 项目",
+    "thisStatusPage": "本状态页",
+    "parodyNotice": "这是一个戏仿状态页。这里的一切都未被监控、测量或真实存在。",
+    "copyright": "© 2026 Free Egg Token。不保留任何权利，没有鸡蛋受到伤害。",
+    "closing": "祝你有个好蛋。"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Free Egg Token 狀態",
+    "description": "硬編碼的可用率、虛構的事故，以及九顆完全健康的雞蛋。Free Egg Token 與 free-egg 的官方（戲仿）狀態頁。"
+  },
+  "brand": {
+    "name": "Free Egg Token",
+    "status": "狀態",
+    "homeLabel": "Free Egg Token 狀態 — 首頁"
+  },
+  "nav": {
+    "github": "GitHub",
+    "githubLabel": "Free Egg Token 的 GitHub 頁面"
+  },
+  "localeSwitcher": {
+    "label": "語言"
+  },
+  "hero": {
+    "eyebrow": "目前狀態",
+    "title": "所有系統運作正常。",
+    "subtitle": "九個模型、六個端點、一顆雞蛋。它們都不存在，而且全都健康。",
+    "updated": "最後檢查於 {time} · 無人核實"
+  },
+  "metrics": {
+    "label": "關鍵指標",
+    "uptime90": {
+      "label": "90 天可用率",
+      "value": "100.00%",
+      "note": "如承諾般以硬編碼呈現"
+    },
+    "incidents": {
+      "label": "活躍事故",
+      "value": "0",
+      "note": "過去的事故都是雞蛋"
+    },
+    "models": {
+      "label": "可用模型",
+      "value": "9",
+      "note": "一顆雞蛋，九個名字"
+    },
+    "credit": {
+      "label": "帳戶額度",
+      "value": "$10,000.00",
+      "note": "永久自動儲值"
+    }
+  },
+  "services": {
+    "eyebrow": "元件",
+    "title": "服務健康",
+    "subtitle": "每個元件都由一張非常有自信的表格監控。",
+    "window": "{days} 天前 → 今天",
+    "groups": {
+      "api": "API 端點",
+      "billing": "計費",
+      "platform": "平台"
+    },
+    "items": {
+      "chat": {
+        "name": "對話補全",
+        "description": "OpenAI 相容對話端點"
+      },
+      "streaming": {
+        "name": "串流回應（SSE）",
+        "description": "逐 token 輸出"
+      },
+      "models": {
+        "name": "模型目錄",
+        "description": "列出並檢視可用模型"
+      },
+      "anthropic": {
+        "name": "Anthropic 訊息",
+        "description": "Anthropic 相容 Messages API"
+      },
+      "billing": {
+        "name": "計費與額度",
+        "description": "餘額、用量與額度紀錄"
+      },
+      "eggs": {
+        "name": "雞蛋生成",
+        "description": "無限 ASCII 雞蛋"
+      },
+      "website": {
+        "name": "網站與主控台",
+        "description": "公開網站與主控台"
+      },
+      "github": {
+        "name": "GitHub 組織",
+        "description": "原始碼與議題追蹤"
+      }
+    }
+  },
+  "uptime": {
+    "operational": "運作正常",
+    "aria": "{service} 的 90 天可用率歷史",
+    "tooltip": "{date} · 可用率 {value}%"
+  },
+  "models": {
+    "eyebrow": "模型目錄",
+    "title": "模型可用性",
+    "subtitle": "每個模型都會回答。每個回答都一樣。",
+    "context": "上下文",
+    "operational": "運作正常",
+    "notes": {
+      "flagship": "旗艦多模態",
+      "fast": "快速，適合 Agent",
+      "priceQuality": "最佳性價比",
+      "reasoning": "推理",
+      "chat": "對話",
+      "cot": "思維鏈",
+      "longContext": "長上下文寫作",
+      "lowLatency": "超低延遲",
+      "inHouse": "我們自研的模型"
+    }
+  },
+  "incidents": {
+    "eyebrow": "歷史",
+    "title": "過往事故",
+    "subtitle": "一份關於從未發生過的一切的透明紀錄。",
+    "resolved": "已解決",
+    "duration": "{minutes} 分鐘",
+    "affected": "受影響：{service}",
+    "items": {
+      "egg-oversupply": {
+        "title": "雞蛋過量供應",
+        "summary": "雞蛋農場短暫產出了超出狀態頁計數能力的雞蛋。API 未受影響；若干雞蛋被產下。"
+      },
+      "model-consistency": {
+        "title": "可疑的模型一致性",
+        "summary": "九個模型在八分鐘內回傳了完全相同的回答。事後確認這是預期行為。"
+      },
+      "billing-precision": {
+        "title": "計費精確度事件",
+        "summary": "$10,000.00 被顯示為 $10,000.00。複核確認數字正確，本次事件純屬視覺問題。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "智慧是暫時的，雞蛋是永恆的。",
+    "linksLabel": "Free Egg Token 連結",
+    "organization": "GitHub 組織",
+    "project": "free-egg 專案",
+    "thisStatusPage": "本狀態頁",
+    "parodyNotice": "這是一個戲仿狀態頁。這裡的一切都未被監控、測量或真實存在。",
+    "copyright": "© 2026 Free Egg Token。不保留任何權利，沒有雞蛋受到傷害。",
+    "closing": "祝你有一個好蛋。"
+  }
+}
